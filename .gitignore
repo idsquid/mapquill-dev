@@ -1,0 +1,43 @@
+# proprietary stuff
+notes.txt
+src/services/
+src/store/modules/s3.js
+src/components/GeocodingFrame.vue
+src/store/modules/remotePosts.js
+src/store/modules/community.js
+src/assets/
+
+# personal projects?
+src/views/web/sections/static/tradbotHome.vue
+src/components/timeline/
+src/views/web/sections/map/LeafletClusterTimeline.vue
+
+.DS_Store
+node_modules/
+depreciated/
+gatheredAssets/
+local/
+
+#
+dist/
+dist.zip
+
+# local env files
+.env
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
